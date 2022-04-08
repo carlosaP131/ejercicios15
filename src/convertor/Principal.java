@@ -1,8 +1,8 @@
 /*****************************************************************************
- *Autor:carlos Aurelio Alcántara Pérez 
- *Fecha de creacion: 05-04-2022 ***
- *Fecha de actualizacion:05-04-2022
- *Descripicion:este programa da dos opciones para convertir dolares a pesos y viceversa 
+ *Autor:Carlos Aurelio Alcántara Pérez 
+ *Fecha de creación: 07-04-2022 ***
+ *Fecha de actualización:07-04-2022
+ *Descripición:este programa da dos opciones para convertir dolares a pesos y viceversa 
  **                                                                                                 
  * *************************************************************************************************/
 package convertor;

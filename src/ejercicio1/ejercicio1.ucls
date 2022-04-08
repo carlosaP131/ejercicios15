@@ -4,7 +4,7 @@
   router="FAN">  
   <class id="1" language="java" name="ejercicio1.Principal" project="ejercicios 15" 
     file="/ejercicios 15/src/ejercicio1/Principal.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="89" width="103" x="384" y="347"/>    
+    <position height="89" width="103" x="235" y="250"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -13,7 +13,7 @@
   </class>  
   <class id="2" language="java" name="ejercicio1.Declaracion" project="ejercicios 15" 
     file="/ejercicios 15/src/ejercicio1/Declaracion.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="239" width="105" x="384" y="476"/>    
+    <position height="239" width="147" x="235" y="379"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      

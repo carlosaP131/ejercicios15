@@ -1,14 +1,14 @@
 /*****************************************************************************
- *Autor:carlos Aurelio Alcántara Pérez 
- *Fecha de creacion: 05-04-2022 ***
- *Fecha de actualizacion:05-04-2022
- *Descripicion:este programa convierte dolares a pesos  
+ *Autor:Carlos Aurelio Alcántara Pérez 
+ *Fecha de creación: 07-04-2022 ***
+ *Fecha de actualización:07-04-2022
+ *Descripición:este programa convierte dolares a pesos  
  **                                                                                                 
  * *************************************************************************************************/
 package convertor;
 
 public class Dolpes {
-	private double valor_peso = 19.99;
+	private double valor_peso ;
 	private double valor_dolares;
 
 	public Dolpes() {
@@ -17,7 +17,7 @@ public class Dolpes {
 
 	public Dolpes(double valor_peso, double valor_dolares) {
 
-		this.valor_peso = valor_peso;
+		this.valor_peso = 19.99;
 		this.valor_dolares = valor_dolares;
 	}
 

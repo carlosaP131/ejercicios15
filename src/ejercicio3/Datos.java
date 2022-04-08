@@ -1,3 +1,11 @@
+/*****************************************************************************
+ *Autor:Carlos Aurelio Alcántara Pérez 
+ *Fecha de creación: 07-04-2022 ***
+ *Fecha de actualización:07-04-2022
+ *Descripción: guarda los datos como télefono dirección y el nombre  
+ **                                                                                                 
+ * *************************************************************************************************/
+
 package ejercicio3;
 
 public class Datos {

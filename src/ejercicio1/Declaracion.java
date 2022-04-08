@@ -1,3 +1,11 @@
+/*****************************************************************************
+ *Autor:Carlos Aurelio Alcántara Pérez 
+ *Fecha de creación: 07-04-2022 ***
+ *Fecha de actualización:07-04-2022
+ *Descripción: declaracion de variables 
+ **                                                                                                 
+ * *************************************************************************************************/
+
 package ejercicio1;
 
 public class Declaracion {
@@ -7,7 +15,7 @@ public class Declaracion {
 	public Declaracion() {
 		
 	}
-	public Declaracion(int x, int y) {
+	public Declaracion(double x, double y) {
 		
 		this.x = x;
 		this.y = y;

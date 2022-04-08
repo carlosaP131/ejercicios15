@@ -1,3 +1,11 @@
+/*****************************************************************************
+ *Autor:Carlos Aurelio Alcántara Pérez 
+ *Fecha de creación: 07-04-2022 ***
+ *Fecha de actualización:07-04-2022
+ *Descripción: imprime el nombre 
+ **                                                                                                 
+ * *************************************************************************************************/
+
 package ejercicio2;
 
 public class Principal {
